@@ -1,5 +1,8 @@
 # Interval Tree Implementation
 
+## Preview
+![service response preview](./assets//preview.png)
+
 ## Usage
 - Golang is required to run this. You can install Go by following the instructions [here](https://golang.org/doc/install)
 - Run the cli using `go run ./cmd/service`
