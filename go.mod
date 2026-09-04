@@ -1,3 +1,3 @@
 module github.com/akanshat/interval-tree
 
-go 1.17
+go 1.26
